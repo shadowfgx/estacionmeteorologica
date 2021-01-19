@@ -1,0 +1,7 @@
+[1217/162619.369:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1217/172208.759:ERROR:process_info.cc(329)] VirtualQueryEx: Acceso denegado. (0x5)
+[1217/172208.759:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[1217/172208.759:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Se intentó obtener acceso a un proceso que está cerrándose. (0xc000010a)
+[1217/172208.786:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[1217/172208.786:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[1217/172208.786:ERROR:exception_snapshot_win.cc(99)] thread ID 8852 not found in process
